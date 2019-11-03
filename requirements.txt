@@ -1,3 +1,5 @@
 jupyter
 beautifulsoup4
 lxml
+pandas
+nltk
