@@ -1,0 +1,211 @@
+﻿role_id,role,file_name,gender,speech_count,total_words,avg_words_per_speech
+hor.,THOMAS HORNER,Globe_Shakespeare/2h6.xml,MALE,6,167,27.83333333
+ant-14,Dolabella,Globe_Shakespeare/ant.xml,MALE,23,282,12.26086957
+cor.,CORIN,Globe_Shakespeare/ayl.xml,MALE,24,550,22.91666667
+patr.,PATROCLUS,Globe_Shakespeare/tro.xml,MALE,37,401,10.83783784
+lor.,LORENZO,Globe_Shakespeare/mv.xml,MALE,47,1312,27.91489362
+caius.,DOCTOR CAIUS,Globe_Shakespeare/wiv.xml,MALE,49,787,16.06122449
+agam.,AGAMEMNON,Globe_Shakespeare/tro.xml,MALE,54,1523,28.2037037
+cor-13,Junius Brutus,Globe_Shakespeare/cor.xml,MALE,91,1553,17.06593407
+ant.-s.,ANTIPHOLUS of Syracuse,Globe_Shakespeare/err.xml,MALE,103,2061,20.00970874
+biron.,BIRON,Globe_Shakespeare/lll.xml,MALE,159,4744,29.83647799
+aber.,LORD ABERGAVENNY,Globe_Shakespeare/h8.xml,MALE,5,115,23
+pri.,PRIAM,Globe_Shakespeare/tro.xml,MALE,6,137,22.83333333
+staf.,SIR HUMPHREY STAFFOR,Globe_Shakespeare/2h6.xml,MALE,6,112,18.66666667
+hume.,JOHN HUME,Globe_Shakespeare/2h6.xml,MALE,6,243,40.5
+cleo.,CLEOMENES,Globe_Shakespeare/wt.xml,MALE,7,132,18.85714286
+jc-14,Cinna,Globe_Shakespeare/jc.xml,MALE,8,104,13
+whit.,WALTER WHITMORE,Globe_Shakespeare/2h6.xml,MALE,8,151,18.875
+gow.,Gower,Globe_Shakespeare/per.xml,MALE,8,2035,254.375
+surv.,Surveyor to the Duke of Buckingham,Globe_Shakespeare/h8.xml,MALE,9,437,48.55555556
+smith.,SMITH the weaver,Globe_Shakespeare/2h6.xml,MALE,9,124,13.77777778
+tgv-1,ANTONIO,Globe_Shakespeare/tgv.xml,MALE,11,258,23.45454545
+ami.,AMIENS,Globe_Shakespeare/ayl.xml,MALE,11,209,19
+mess.,MESSENGER,Globe_Shakespeare/jn.xml,MALE,11,218,19.81818182
+balth.,BALTHASAR,Globe_Shakespeare/ado.xml,MALE,11,181,16.45454545
+ver.,VERNON,Globe_Shakespeare/1h6.xml,MALE,12,237,19.75
+sec.-fish.,Second Fisherman,Globe_Shakespeare/per.xml,MALE,12,214,17.83333333
+sec.-sen.,Second Senator,Globe_Shakespeare/tim.xml,MALE,14,422,30.14285714
+le-beau.,LE BEAU,Globe_Shakespeare/ayl.xml,MALE,14,369,26.35714286
+hip.,HIPPOLYTA,Globe_Shakespeare/mnd.xml,MALE,14,248,17.71428571
+prin.,ESCALUS,Globe_Shakespeare/rom.xml,MALE,16,623,38.9375
+bard.,BARDOLPH,Globe_Shakespeare/h5.xml,MALE,16,223,13.9375
+lord.,A Lord,Globe_Shakespeare/shr.xml,MALE,17,1038,61.05882353
+clif.,LORD CLIFFORD,Globe_Shakespeare/2h6.xml,MALE,17,458,26.94117647
+prince.,"EDWARD, Prince of Wales",Globe_Shakespeare/r3.xml,MALE,18,345,19.16666667
+cant.,ARCHBISHOP OF CANTERBURY,Globe_Shakespeare/h5.xml,MALE,18,1635,90.83333333
+curt.,CURTIS,Globe_Shakespeare/shr.xml,MALE,20,165,8.25
+york.,RICHARD,Globe_Shakespeare/r3.xml,MALE,21,327,15.57142857
+cran.,CRANMER,Globe_Shakespeare/h8.xml,MALE,21,1032,49.14285714
+len.,Lennox,Globe_Shakespeare/mac.xml,MALE,22,496,22.54545455
+exe.,DUKE OF EXETER,Globe_Shakespeare/h5.xml,MALE,22,966,43.90909091
+duke.,SOLINUS,Globe_Shakespeare/err.xml,MALE,22,689,31.31818182
+arth.,"ARTHUR, Duke of Bretagne",Globe_Shakespeare/jn.xml,MALE,23,963,41.86956522
+cer.,CERIMON,Globe_Shakespeare/per.xml,MALE,23,716,31.13043478
+sil.,SILVIUS,Globe_Shakespeare/ayl.xml,MALE,24,535,22.29166667
+mon.,MONTANO,Globe_Shakespeare/oth.xml,MALE,24,411,17.125
+gow.,GOWER,Globe_Shakespeare/h5.xml,MALE,27,501,18.55555556
+ant-1,Agrippa,Globe_Shakespeare/ant.xml,MALE,28,352,12.57142857
+will.,WILLIAMS,Globe_Shakespeare/h5.xml,MALE,28,612,21.85714286
+elb.,ELBOW,Globe_Shakespeare/mm.xml,MALE,28,593,21.17857143
+york.,RICHARD PLANTAGENET,Globe_Shakespeare/1h6.xml,MALE,29,698,24.06896552
+obe.,OBERON,Globe_Shakespeare/mnd.xml,MALE,29,1586,54.68965517
+cate.,SIR WILLIAM CATESBY,Globe_Shakespeare/r3.xml,MALE,30,430,14.33333333
+duke-s.,DUKE,Globe_Shakespeare/ayl.xml,MALE,32,813,25.40625
+clar.,GEORGE,Globe_Shakespeare/r3.xml,MALE,32,1289,40.28125
+ban.,Banquo,Globe_Shakespeare/mac.xml,MALE,33,764,23.15151515
+clar.,GEORGE,Globe_Shakespeare/3h6.xml,MALE,33,667,20.21212121
+first-gent.,First Gentleman,Globe_Shakespeare/h8.xml,MALE,34,686,20.17647059
+claud.,CLAUDIO,Globe_Shakespeare/mm.xml,MALE,35,795,22.71428571
+sec.-gent.,Second Gentleman,Globe_Shakespeare/h8.xml,MALE,37,558,15.08108108
+boult.,Boult,Globe_Shakespeare/per.xml,MALE,38,649,17.07894737
+trin.,TRINCULO,Globe_Shakespeare/tmp.xml,MALE,39,804,20.61538462
+jc-8,Casca,Globe_Shakespeare/jc.xml,MALE,39,1035,26.53846154
+ross.,Ross,Globe_Shakespeare/mac.xml,MALE,39,897,23
+alon.,ALONSO,Globe_Shakespeare/tmp.xml,MALE,40,738,18.45
+con.,The Constable of France,Globe_Shakespeare/h5.xml,MALE,40,912,22.8
+bion.,BIONDELLO,Globe_Shakespeare/shr.xml,MALE,41,805,19.63414634
+char.,CHARLES,Globe_Shakespeare/1h6.xml,MALE,41,1012,24.68292683
+d.-john.,DON JOHN,Globe_Shakespeare/ado.xml,MALE,41,893,21.7804878
+shep.,Old Shepherd,Globe_Shakespeare/wt.xml,MALE,42,1043,24.83333333
+sim.,Simonides,Globe_Shakespeare/per.xml,MALE,42,1113,26.5
+cor-4,"Aufidius, Tullus",Globe_Shakespeare/cor.xml,MALE,45,2000,44.44444444
+ros.,ROSENCRANTZ,Globe_Shakespeare/ham.xml,MALE,45,682,15.15555556
+arv.,ARVIRAGUS,Globe_Shakespeare/cym.xml,MALE,46,898,19.52173913
+ari.,ARIEL,Globe_Shakespeare/tmp.xml,MALE,48,1159,24.14583333
+the.,THESEUS,Globe_Shakespeare/mnd.xml,MALE,48,1707,35.5625
+dem.,DEMETRIUS,Globe_Shakespeare/mnd.xml,MALE,48,1062,22.125
+hub.,HUBERT DE BURGH,Globe_Shakespeare/jn.xml,MALE,52,1017,19.55769231
+gon.,GONZALO,Globe_Shakespeare/tmp.xml,MALE,52,1148,22.07692308
+dum.,DUMAIN,Globe_Shakespeare/lll.xml,MALE,54,541,10.01851852
+fri.-l.,FRIAR LAURENCE,Globe_Shakespeare/rom.xml,MALE,55,2711,49.29090909
+cor-30,Servingmen,Globe_Shakespeare/cor.xml,MALE,56,888,15.85714286
+shal.,SHALLOW,Globe_Shakespeare/wiv.xml,MALE,57,897,15.73684211
+hect.,HECTOR,Globe_Shakespeare/tro.xml,MALE,57,1502,26.35087719
+gui.,GUIDERIUS,Globe_Shakespeare/cym.xml,MALE,59,1059,17.94915254
+macd.,Macduff,Globe_Shakespeare/mac.xml,MALE,59,1146,19.42372881
+ste.,STEPHANO,Globe_Shakespeare/tmp.xml,MALE,60,1280,21.33333333
+pom.,POMPEY,Globe_Shakespeare/mm.xml,MALE,60,1282,21.36666667
+mer.,MERCUTIO,Globe_Shakespeare/rom.xml,MALE,62,2028,32.70967742
+pist.,PISTOL,Globe_Shakespeare/h5.xml,MALE,62,1096,17.67741935
+ben.,BENVOLIO,Globe_Shakespeare/rom.xml,MALE,64,1145,17.890625
+prov.,PROVOST,Globe_Shakespeare/mm.xml,MALE,65,1118,17.2
+tgv-9,LAUNCE,Globe_Shakespeare/tgv.xml,MALE,68,1818,26.73529412
+bap.,BAPTISTA,Globe_Shakespeare/shr.xml,MALE,68,1268,18.64705882
+cam.,CAMILLO,Globe_Shakespeare/wt.xml,MALE,72,2070,28.75
+bass.,BASSANIO,Globe_Shakespeare/mv.xml,MALE,73,2570,35.20547945
+page.,PAGE,Globe_Shakespeare/wiv.xml,MALE,75,1076,14.34666667
+post.,POSTHUMUS LEONATUS,Globe_Shakespeare/cym.xml,MALE,77,3341,43.38961039
+escal.,ESCALUS,Globe_Shakespeare/mm.xml,MALE,78,1404,18
+lr-5,EDMUND,Globe_Shakespeare/lr.xml,MALE,79,2345,29.6835443
+king.,KING HENRY the Sixth,Globe_Shakespeare/2h6.xml,MALE,82,2484,30.29268293
+cost.,COSTARD,Globe_Shakespeare/lll.xml,MALE,83,1508,18.1686747
+ther.,THERSITES,Globe_Shakespeare/tro.xml,MALE,90,2228,24.75555556
+k.-john.,KING JOHN,Globe_Shakespeare/jn.xml,MALE,95,3287,34.6
+ant-32,Octavius Csar,Globe_Shakespeare/ant.xml,MALE,96,2834,29.52083333
+orl.,ORLANDO,Globe_Shakespeare/ayl.xml,MALE,120,2362,19.68333333
+wife.,Wife to Simpcox,Globe_Shakespeare/2h6.xml,FEMALE,7,53,7.571428571
+cour.,A Courtezan,Globe_Shakespeare/err.xml,FEMALE,11,291,26.45454545
+third-witch.,Third Witch,Globe_Shakespeare/mac.xml,FEMALE,13,126,9.692307692
+mop.,MOPSA,Globe_Shakespeare/wt.xml,FEMALE,13,140,10.76923077
+const.,CONSTANCE,Globe_Shakespeare/jn.xml,FEMALE,36,2107,58.52777778
+bawd.,Bawd,Globe_Shakespeare/per.xml,FEMALE,43,835,19.41860465
+tgv-6,LUCETTA,Globe_Shakespeare/tgv.xml,FEMALE,48,557,11.60416667
+her.,HERMIA,Globe_Shakespeare/mnd.xml,FEMALE,48,1278,26.625
+cor-39,Volumnia,Globe_Shakespeare/cor.xml,FEMALE,55,2346,42.65454545
+kath.,KATHARINA,Globe_Shakespeare/shr.xml,FEMALE,82,1739,21.20731707
+tgv-5,JULIA,Globe_Shakespeare/tgv.xml,FEMALE,107,2387,22.30841121
+q.-isa.,ISABEL,Globe_Shakespeare/h5.xml,FEMALE,5,187,37.4
+first-serv.,First Servant,Globe_Shakespeare/1h6.xml,FEMALE,5,48,9.6
+lady-f.,LADY FAULCONBRIDGE,Globe_Shakespeare/jn.xml,FEMALE,5,127,25.4
+p.-queen.,Player Queen,Globe_Shakespeare/ham.xml,FEMALE,5,236,47.2
+jc-6,Calpurnia,Globe_Shakespeare/jc.xml,FEMALE,6,198,33
+lady.,a Lady,Globe_Shakespeare/cym.xml,FEMALE,6,54,9
+luce.,LUCE,Globe_Shakespeare/err.xml,FEMALE,7,63,9
+jul.,JULIET,Globe_Shakespeare/mm.xml,FEMALE,7,62,8.857142857
+page.,Page,Globe_Shakespeare/shr.xml,FEMALE,8,120,15
+wid.,Widow,Globe_Shakespeare/shr.xml,FEMALE,8,76,9.5
+this.,Thisbe,Globe_Shakespeare/mnd.xml,FEMALE,8,177,22.125
+blanch.,BLANCH of Spain,Globe_Shakespeare/jn.xml,FEMALE,9,339,37.66666667
+gent.,Gentlewoman,Globe_Shakespeare/mac.xml,FEMALE,11,181,16.45454545
+host.,"Hostess of a tavern in Eastcheap, formerly Mistress Quickly",Globe_Shakespeare/h5.xml,FEMALE,11,366,33.27272727
+dor.,DORCAS,Globe_Shakespeare/wt.xml,FEMALE,11,66,6
+aud.,AUDREY,Globe_Shakespeare/ayl.xml,FEMALE,12,148,12.33333333
+ant-31,Octavia,Globe_Shakespeare/ant.xml,FEMALE,13,228,17.53846154
+count.,COUNTESS OF AUVERGNE,Globe_Shakespeare/1h6.xml,FEMALE,13,349,26.84615385
+jaq.,JAQUENETTA,Globe_Shakespeare/lll.xml,FEMALE,13,100,7.692307692
+cor-35,Valeria,Globe_Shakespeare/cor.xml,FEMALE,15,361,24.06666667
+sec.-witch.,Second Witch,Globe_Shakespeare/mac.xml,FEMALE,15,123,8.2
+old-l.,An old Lady,Globe_Shakespeare/h8.xml,FEMALE,15,490,32.66666667
+bian.,BIANCA,Globe_Shakespeare/oth.xml,FEMALE,15,262,17.46666667
+mrs-ov.,MISTRESS OVERDONE,Globe_Shakespeare/mm.xml,FEMALE,15,225,15
+jc-38,Portia,Globe_Shakespeare/jc.xml,FEMALE,16,711,44.4375
+abb.,"MILIA, wife to geon",Globe_Shakespeare/err.xml,FEMALE,16,546,34.125
+ant-21,Iras,Globe_Shakespeare/ant.xml,FEMALE,18,155,8.611111111
+kath.,QUEEN KATHARINE,Globe_Shakespeare/h8.xml,FEMALE,18,869,48.27777778
+anne.,ANNE BULLEN,Globe_Shakespeare/h8.xml,FEMALE,18,370,20.55555556
+l.-macd.,Lady Macduff,Globe_Shakespeare/mac.xml,FEMALE,19,288,15.15789474
+urs.,URSULA,Globe_Shakespeare/ado.xml,FEMALE,19,358,18.84210526
+dion.,Dionyza,Globe_Shakespeare/per.xml,FEMALE,19,664,34.94736842
+anne.,ANNE PAGE,Globe_Shakespeare/wiv.xml,FEMALE,20,184,9.2
+duch.,ELEANOR,Globe_Shakespeare/2h6.xml,FEMALE,21,948,45.14285714
+alice.,ALICE,Globe_Shakespeare/h5.xml,FEMALE,22,159,7.227272727
+mar.,MARGARET,Globe_Shakespeare/1h6.xml,FEMALE,22,252,11.45454545
+eli.,QUEEN ELINOR,Globe_Shakespeare/jn.xml,FEMALE,22,441,20.04545455
+mar.,MARIA,Globe_Shakespeare/lll.xml,FEMALE,22,321,14.59090909
+phe.,PHEBE,Globe_Shakespeare/ayl.xml,FEMALE,23,689,29.95652174
+first-witch.,First Witch,Globe_Shakespeare/mac.xml,FEMALE,23,343,14.91304348
+tita.,TITANIA,Globe_Shakespeare/mnd.xml,FEMALE,23,1150,50
+mari.,MARIANA,Globe_Shakespeare/mm.xml,FEMALE,24,474,19.75
+cor-37,Virgilia,Globe_Shakespeare/cor.xml,FEMALE,25,227,9.08
+per.,PERDITA,Globe_Shakespeare/wt.xml,FEMALE,25,954,38.16
+kath.,KATHARINE,Globe_Shakespeare/lll.xml,FEMALE,25,351,14.04
+jes.,JESSICA,Globe_Shakespeare/mv.xml,FEMALE,26,660,25.38461538
+marg.,MARGARET,Globe_Shakespeare/ado.xml,FEMALE,26,537,20.65384615
+queen.,Queen,Globe_Shakespeare/cym.xml,FEMALE,27,1190,44.07407407
+bian.,BIANCA,Globe_Shakespeare/shr.xml,FEMALE,28,524,18.71428571
+l.-grey.,LADY GREY,Globe_Shakespeare/3h6.xml,FEMALE,30,593,19.76666667
+lr-3,CORDELIA,Globe_Shakespeare/lr.xml,FEMALE,31,811,26.16129032
+q.-kath.,QUEEN KATHARINE,Globe_Shakespeare/h8.xml,FEMALE,32,1989,62.15625
+thai.,Thaisa,Globe_Shakespeare/per.xml,FEMALE,32,553,17.28125
+q.-mar.,MARGARET,Globe_Shakespeare/r3.xml,FEMALE,33,1733,52.51515152
+kath.,KATHERINE,Globe_Shakespeare/h5.xml,FEMALE,33,414,12.54545455
+her.,HERMIONE,Globe_Shakespeare/wt.xml,FEMALE,35,1548,44.22857143
+ner.,NERISSA,Globe_Shakespeare/mv.xml,FEMALE,36,695,19.30555556
+hel.,HELENA,Globe_Shakespeare/mnd.xml,FEMALE,36,1803,50.08333333
+duch.,DUCHESS OF YORK,Globe_Shakespeare/r3.xml,FEMALE,43,1073,24.95348837
+luc.,LUCIANA,Globe_Shakespeare/err.xml,FEMALE,43,753,17.51162791
+hero.,HERO,Globe_Shakespeare/ado.xml,FEMALE,44,977,22.20454545
+la.-cap.,LADY CAPULET,Globe_Shakespeare/rom.xml,FEMALE,45,863,19.17777778
+puc.,JOAN LA PUCELLE,Globe_Shakespeare/1h6.xml,FEMALE,46,1943,42.23913043
+mir.,MIRANDA,Globe_Shakespeare/tmp.xml,FEMALE,50,900,18
+anne.,LADY ANNE,Globe_Shakespeare/r3.xml,FEMALE,50,1179,23.58
+lr-8,GONERIL,Globe_Shakespeare/lr.xml,FEMALE,53,1455,27.45283019
+q.-mar.,QUEEN MARGARET,Globe_Shakespeare/3h6.xml,FEMALE,53,2222,41.9245283
+queen,MARGARET,Globe_Shakespeare/2h6.xml,FEMALE,57,2409,42.26315789
+tgv-8,SILVIA,Globe_Shakespeare/tgv.xml,FEMALE,58,1134,19.55172414
+lady-m.,Lady Macbeth,Globe_Shakespeare/mac.xml,FEMALE,58,1870,32.24137931
+oph.,OPHELIA,Globe_Shakespeare/ham.xml,FEMALE,58,1160,20
+paul.,PAULINA,Globe_Shakespeare/wt.xml,FEMALE,59,2329,39.47457627
+ant-8,Charmian,Globe_Shakespeare/ant.xml,FEMALE,63,622,9.873015873
+mar.,Marina,Globe_Shakespeare/per.xml,FEMALE,63,1252,19.87301587
+queen.,GERTRUDE,Globe_Shakespeare/ham.xml,FEMALE,69,1042,15.10144928
+lr-12,REGAN,Globe_Shakespeare/lr.xml,FEMALE,72,1371,19.04166667
+quick.,MISTRESS QUICKLY,Globe_Shakespeare/wiv.xml,FEMALE,74,2170,29.32432432
+ros.,ROSALINE,Globe_Shakespeare/lll.xml,FEMALE,75,1372,18.29333333
+adr.,ADRIANA,Globe_Shakespeare/err.xml,FEMALE,79,2077,26.29113924
+mrs.-ford.,MISTRESS FORD,Globe_Shakespeare/wiv.xml,FEMALE,83,1277,15.38554217
+nurse.,Nurse to Juliet,Globe_Shakespeare/rom.xml,FEMALE,90,2191,24.34444444
+q.-eliz.,ELIZABETH,Globe_Shakespeare/r3.xml,FEMALE,97,2123,21.88659794
+mrs.-page.,MISTRESS PAGE,Globe_Shakespeare/wiv.xml,FEMALE,103,2505,24.32038835
+emil.,EMILIA,Globe_Shakespeare/oth.xml,FEMALE,103,1779,17.27184466
+prin.,The PRINCESS of France,Globe_Shakespeare/lll.xml,FEMALE,104,2139,20.56730769
+beat.,BEATRICE,Globe_Shakespeare/ado.xml,FEMALE,106,2339,22.06603774
+cel.,CELIA,Globe_Shakespeare/ayl.xml,FEMALE,108,2086,19.31481481
+por.,PORTIA,Globe_Shakespeare/mv.xml,FEMALE,117,4609,39.39316239
+imo.,IMOGEN,Globe_Shakespeare/cym.xml,FEMALE,118,4312,36.54237288
+jul.,JULIET,Globe_Shakespeare/rom.xml,FEMALE,118,4206,35.6440678
+isab.,ISABELLA,Globe_Shakespeare/mm.xml,FEMALE,129,2972,23.03875969
+des.,DESDEMONA,Globe_Shakespeare/oth.xml,FEMALE,165,2729,16.53939394
+ros.,ROSALIND,Globe_Shakespeare/ayl.xml,FEMALE,201,5648,28.09950249
+ant-9,Cleopatra,Globe_Shakespeare/ant.xml,FEMALE,204,4627,22.68137255
